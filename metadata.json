@@ -1,0 +1,6 @@
+{
+  "name": "KisanDrishti - Crop Disease Detection & AI Agronomist",
+  "description": "Smart India Hackathon crop disease diagnosis, organic remedies, model training feedback loop, outbreak trends, offline farmer library, voice navigation, and multilingual advisory hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
